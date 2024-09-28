@@ -14,3 +14,6 @@ end-of-line
 outline
 linear
 ```
+
+## Search Results
+- Ctrl-F = shows all instances of the word line regardless of the case of character and other characters attached to it
