@@ -14,9 +14,9 @@
 
 ## Links
 
-- (GitHub)[https://github.com/]
-- (Codepen)[https://codepen.io/]
-- (ForntEndMentor)[https://www.frontendmentor.io/]
+- [GitHub](https://github.com/)
+- [Codepen](https://codepen.io/)
+- [ForntEndMentor](https://www.frontendmentor.io/)
 - [CLI commands](docs/cli.md)
 
 ## Experiment
