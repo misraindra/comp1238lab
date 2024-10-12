@@ -1,3 +1,3 @@
 #CLI commands:
 
-- ```ls discuss 
+- 'ls' discuss 
